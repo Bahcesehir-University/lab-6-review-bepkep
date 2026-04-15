@@ -125,7 +125,7 @@ public:
         for (int i=0 ; i<temp.length(); i++){
             temp[i] = toupper(temp[i]);
         }
-        return "";
+        return temp;
     }
 
     // ----- Task 5: Operator Overloading -----
