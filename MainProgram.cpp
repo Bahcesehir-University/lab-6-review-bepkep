@@ -177,7 +177,7 @@ Student findBestStudent(Student arr[], int size) {
             best = arr[i];
         }
     }
-    return arr[0];
+    return best;
 }
 
 // ================================
